@@ -1,4 +1,4 @@
-# Microsoft Cloud Workshop template *(replace with workshop name)*
+# YKB Big Data and Analytics Platform Workshop
 *Please provide an introduction to the workshop. For example:*
 
 Trey Research Inc. looks at the old way of doing things in retail and introduces innovative experiences that delight customers and drive sales. Their latest initiative focuses on intelligent vending machines that support commerce, engagement analytics, and intelligent promotions. 
